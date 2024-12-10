@@ -10,7 +10,7 @@ How to Clone the repo
 ---------------------
 Before cloning the repo need to add your computer ssh key to github
 - Open the command prompt and run the below command.
-<b<i>ssh-keygen -t ed25519 -C "<email_id>@gmail.com" </i></b>
+<b><i>ssh-keygen -t ed25519 -C "<email_id>@gmail.com" </i></b>
 - It will ask below question 
 Enter file in which to save the key
 - Press enter key
